@@ -287,8 +287,8 @@ body {
 }
 @media screen and (max-width: 768px) {
   .team {
-    bottom: 83px;
-    right: 50px;
+    bottom: 26px;
+    right: 170px;
   }
 }
 @media screen and (max-width: 400px) {
