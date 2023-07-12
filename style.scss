@@ -292,9 +292,9 @@ body {
     font-size: 1.2rem;
   }
 
-  @include bp-mobile {
-    bottom: 83px;
-    right: 50px;
+    @include bp-mobile {
+    bottom: 26px;
+    right: 170px;
   }
 
   @include bp-mobile-small {
